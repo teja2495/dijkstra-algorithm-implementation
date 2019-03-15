@@ -1,5 +1,5 @@
 # dijkstra-algorithm-implementation
-A Java which implements Dijkstra's Shortest Path Algorithm between multiple places.
+A Java program which implements Dijkstra's Shortest Path Algorithm between multiple places.
 
 // BALA GUNA TEJA KARLAPUDI
 
